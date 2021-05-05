@@ -1,2 +1,2 @@
-# finanas
+# finanças
 fins educacionais
